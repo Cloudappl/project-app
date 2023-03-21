@@ -21,15 +21,20 @@ Complete guide how to deploy web application on Azure App Services.
 ## Technologies
 ---
 - Ubuntu
-- Azure
+- Terraform
 - Flask
+- Docker
+- Localstack
  
 
 
 ## Setup
 ---
 To run this project, you need to have installed:
-- azure-cli
+- Docker
+- Python
+- Localstack
+- Terraform
 - latest pip version
 
 ## Documentation
